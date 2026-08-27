@@ -54,3 +54,6 @@ Desktop.ini
 *.local
 coverage/
 .nyc_output/
+
+# ── Ferramentas Internas (Antigravity Agent) ──
+.agents/

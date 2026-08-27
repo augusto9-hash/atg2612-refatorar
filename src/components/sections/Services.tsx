@@ -16,7 +16,7 @@ export const Services: React.FC<ServicesProps> = ({ onOpenPricingModal }) => {
       badge: 'Mais Solicitado',
       description:
         'Entregas urgentes de documentos, malotes e pequenos volumes de um ponto a outro da cidade de São Paulo com total agilidade e rastreabilidade.',
-      image: '/img1.jpg',
+      image: '/service-moto-frete.png',
       features: [
         'Documentos, exames e contratos',
         'Serviços bancários e malotes corporativos',
@@ -31,7 +31,7 @@ export const Services: React.FC<ServicesProps> = ({ onOpenPricingModal }) => {
       badge: 'Custo-Benefício',
       description:
         'Implantação de equipe dedicada de motoboys para empresas com alto volume de encomendas leves ou atendimento recorrente a clientes.',
-      image: '/img2.jpg',
+      image: '/service-delivery-corporativo.png',
       features: [
         'Farmácias, Drogarias e Laboratórios',
         'Restaurantes, Pizzarias e Lanchonetes',
@@ -46,7 +46,7 @@ export const Services: React.FC<ServicesProps> = ({ onOpenPricingModal }) => {
       badge: 'Tabela Especial',
       description:
         'Atendimento especializado para municípios da Grande São Paulo, ABC Paulista e cidades do interior com tabela exclusiva e hora marcada.',
-      image: '/img3.jpg',
+      image: '/service-intermunicipal.png',
       features: [
         'Santo André, São Bernardo, São Caetano e Diadema',
         'Osasco, Barueri, Alphaville e Guarulhos',

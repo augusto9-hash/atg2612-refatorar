@@ -96,7 +96,7 @@ export const Hero: React.FC<HeroProps> = ({ onOpenPricingModal }) => {
                 {/* Visual Header Image Preview */}
                 <div className="relative rounded-2xl overflow-hidden h-56 bg-slate-800 border border-slate-700/60 group">
                   <img
-                    src="/img1.jpg"
+                    src="/hero-motoboy.png"
                     alt="Serviços Moto Frete Coopstar Express"
                     className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500"
                   />
